@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello
 
-<!--
-**nulluuid/nulluuid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps engineer.
 
-Here are some ideas to get you started:
+It's me:
+- [DockerHub](https://hub.docker.com/u/nulluuid)
+- [Reddit](https://www.reddit.com/user/nulluuid)
+- [Mastodon](https://mastodon.social/@nulluuid)
+- [Stackoverflow](https://stackoverflow.com/users/23410877/nulluuid)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It is NOT:
+- [Youtube](https://www.youtube.com/@nulluuid/)
+
+Contact me:
+- [Email](mailto:cxy5t9hzg@mozmail.com)
